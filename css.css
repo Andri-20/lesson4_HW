@@ -1,0 +1,11 @@
+.product-card{
+    width: 300px;
+}
+.product-title{
+    font-family: "Arial Narrow";
+    font-size: 30px;
+    color: #288d88;
+}
+.product-image{
+    width:100%;
+}
